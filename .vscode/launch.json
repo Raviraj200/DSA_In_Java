@@ -1,0 +1,819 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CreatFile",
+            "request": "launch",
+            "mainClass": "Handing.CreatFile",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "FinallyBlock",
+            "request": "launch",
+            "mainClass": "Handing.FinallyBlock",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abstracts",
+            "request": "launch",
+            "mainClass": "Abstracts",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "AddFirst",
+            "request": "launch",
+            "mainClass": "AddFirst",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousEx",
+            "request": "launch",
+            "mainClass": "AnonymousClass.AnonymousEx",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Autoboxing",
+            "request": "launch",
+            "mainClass": "Autoboxing",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "DeleteNote",
+            "request": "launch",
+            "mainClass": "BST.DeleteNote",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "RootLeafPaths",
+            "request": "launch",
+            "mainClass": "BST.RootLeafPaths",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "SearchTree",
+            "request": "launch",
+            "mainClass": "BST.SearchTree",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "bst",
+            "request": "launch",
+            "mainClass": "BST.bst",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "printRange",
+            "request": "launch",
+            "mainClass": "BST.printRange",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Bitwise",
+            "request": "launch",
+            "mainClass": "Bitwise",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "CharacterCount",
+            "request": "launch",
+            "mainClass": "CharacterCount",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "ClassInJava",
+            "request": "launch",
+            "mainClass": "ClassInJava",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "ConStr",
+            "request": "launch",
+            "mainClass": "ConStr",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Copyconstr",
+            "request": "launch",
+            "mainClass": "Copyconstr",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "CreatFile",
+            "request": "launch",
+            "mainClass": "CreatFile",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "FinallyBlock",
+            "request": "launch",
+            "mainClass": "FinallyBlock",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "FirstLinkList",
+            "request": "launch",
+            "mainClass": "FirstLinkList",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "ComparableJava",
+            "request": "launch",
+            "mainClass": "Framework.comparableAndComparator.ComparableJava",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "GeneriesClass",
+            "request": "launch",
+            "mainClass": "Framework.generies.GeneriesClass",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "GeneriesMethods",
+            "request": "launch",
+            "mainClass": "Framework.generies.GeneriesMethods",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "QueueJava",
+            "request": "launch",
+            "mainClass": "Framework.generies.QueueInterface.QueueJava",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "QueueJava1",
+            "request": "launch",
+            "mainClass": "Framework.generies.QueueInterface.QueueJava1",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "stackJava",
+            "request": "launch",
+            "mainClass": "Framework.generies.QueueInterface.stackJava",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashset",
+            "request": "launch",
+            "mainClass": "Framework.generies.SetInterface.LinkedHashset",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "enumSet",
+            "request": "launch",
+            "mainClass": "Framework.generies.SetInterface.enumSet",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "heshSet",
+            "request": "launch",
+            "mainClass": "Framework.generies.SetInterface.heshSet",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "set",
+            "request": "launch",
+            "mainClass": "Framework.generies.SetInterface.set",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "treeSet",
+            "request": "launch",
+            "mainClass": "Framework.generies.SetInterface.treeSet",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "hashMap",
+            "request": "launch",
+            "mainClass": "Framework.generies.map_Interface.hashMap",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "hashset",
+            "request": "launch",
+            "mainClass": "HashSet.hashset",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass",
+            "request": "launch",
+            "mainClass": "InnerClass.InnerClass",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Itinerary",
+            "request": "launch",
+            "mainClass": "MapInterface.Itinerary",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Majority",
+            "request": "launch",
+            "mainClass": "MapInterface.Majority",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Subarrary_sum_eual_k",
+            "request": "launch",
+            "mainClass": "MapInterface.Subarrary_sum_eual_k",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "UnionofArr",
+            "request": "launch",
+            "mainClass": "MapInterface.UnionofArr",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "hashMapCodeimp",
+            "request": "launch",
+            "mainClass": "MapInterface.hashMapCodeimp",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "hashmapInterface",
+            "request": "launch",
+            "mainClass": "MapInterface.hashmapInterface",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "interSection",
+            "request": "launch",
+            "mainClass": "MapInterface.interSection",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Merge_Sort",
+            "request": "launch",
+            "mainClass": "Merge_Sort",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Oops",
+            "request": "launch",
+            "mainClass": "Oops",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueue",
+            "request": "launch",
+            "mainClass": "QueueDataStructure.CircularQueue",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "QueueByLinklist",
+            "request": "launch",
+            "mainClass": "QueueDataStructure.QueueByLinklist",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "TwoStackOneQueue",
+            "request": "launch",
+            "mainClass": "QueueDataStructure.TwoStackOneQueue",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "queueByArr",
+            "request": "launch",
+            "mainClass": "QueueDataStructure.queueByArr",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Quick_Sort",
+            "request": "launch",
+            "mainClass": "Quick_Sort",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLinked",
+            "request": "launch",
+            "mainClass": "ReverseLinked",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "CreateStack",
+            "request": "launch",
+            "mainClass": "StackByLinklist.CreateStack",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "StackByArrya",
+            "request": "launch",
+            "mainClass": "StackByLinklist.StackByArrya",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "puchBottom",
+            "request": "launch",
+            "mainClass": "StackByLinklist.puchBottom",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "StrRev",
+            "request": "launch",
+            "mainClass": "StrRev",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "SubsetNum",
+            "request": "launch",
+            "mainClass": "SubsetNum",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "CountNode",
+            "request": "launch",
+            "mainClass": "TreeInJava.CountNode",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Dimarter",
+            "request": "launch",
+            "mainClass": "TreeInJava.Dimarter",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "HeightOfTree",
+            "request": "launch",
+            "mainClass": "TreeInJava.HeightOfTree",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "PostOrderTree",
+            "request": "launch",
+            "mainClass": "TreeInJava.PostOrderTree",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "SubTreeInTree",
+            "request": "launch",
+            "mainClass": "TreeInJava.SubTreeInTree",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNode",
+            "request": "launch",
+            "mainClass": "TreeInJava.SumOfNode",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "levelOrder",
+            "request": "launch",
+            "mainClass": "TreeInJava.levelOrder",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "subTree",
+            "request": "launch",
+            "mainClass": "TreeInJava.subTree",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "tree",
+            "request": "launch",
+            "mainClass": "TreeInJava.tree",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "countOfsubString",
+            "request": "launch",
+            "mainClass": "TrieDataStruction.countOfsubString",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "longestWord",
+            "request": "launch",
+            "mainClass": "TrieDataStruction.longestWord",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "startWith_Problem",
+            "request": "launch",
+            "mainClass": "TrieDataStruction.startWith_Problem",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "trie",
+            "request": "launch",
+            "mainClass": "TrieDataStruction.trie",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "workBrack",
+            "request": "launch",
+            "mainClass": "TrieDataStruction.workBrack",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "arrya",
+            "request": "launch",
+            "mainClass": "arrya",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "capSecond",
+            "request": "launch",
+            "mainClass": "cap.capSecond",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "checkarr",
+            "request": "launch",
+            "mainClass": "checkarr",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "countPathsInmaxin",
+            "request": "launch",
+            "mainClass": "countPathsInmaxin",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "count_a",
+            "request": "launch",
+            "mainClass": "count_a",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "faclorial_sum",
+            "request": "launch",
+            "mainClass": "faclorial_sum",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "fibonacei",
+            "request": "launch",
+            "mainClass": "fibonacei",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "CreactFile",
+            "request": "launch",
+            "mainClass": "fileHandling.CreactFile",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "findLevel",
+            "request": "launch",
+            "mainClass": "findLevel",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "findNRemove",
+            "request": "launch",
+            "mainClass": "findNRemove",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "forLoop",
+            "request": "launch",
+            "mainClass": "forLoop",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "AllPath",
+            "request": "launch",
+            "mainClass": "graph.AllPath",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "graph.BFS",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFords",
+            "request": "launch",
+            "mainClass": "graph.BellmanFords",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "DFSData",
+            "request": "launch",
+            "mainClass": "graph.DFSData",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Dijkatras",
+            "request": "launch",
+            "mainClass": "graph.Dijkatras",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "InCycle",
+            "request": "launch",
+            "mainClass": "graph.InCycle",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "PrimsAlgorithm",
+            "request": "launch",
+            "mainClass": "graph.PrimsAlgorithm",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "TopSort",
+            "request": "launch",
+            "mainClass": "graph.TopSort",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "graph",
+            "request": "launch",
+            "mainClass": "graph.graph",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "weightGraph",
+            "request": "launch",
+            "mainClass": "graph.weightGraph",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "ifEles",
+            "request": "launch",
+            "mainClass": "ifEles",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "insh.First",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "insh.Second",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "invitePeople",
+            "request": "launch",
+            "mainClass": "invitePeople",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "loopInLinklist",
+            "request": "launch",
+            "mainClass": "loopInLinklist",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "objClass.one",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "patten",
+            "request": "launch",
+            "mainClass": "patten",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "permuString",
+            "request": "launch",
+            "mainClass": "permuString",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "placeTiles",
+            "request": "launch",
+            "mainClass": "placeTiles",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "printPower",
+            "request": "launch",
+            "mainClass": "printPower",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "print_num",
+            "request": "launch",
+            "mainClass": "print_num",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "removedupl",
+            "request": "launch",
+            "mainClass": "removedupl",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "stringaddend",
+            "request": "launch",
+            "mainClass": "stringaddend",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "sumnaturalNumber",
+            "request": "launch",
+            "mainClass": "sumnaturalNumber",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "text",
+            "request": "launch",
+            "mainClass": "text.text",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "towerHanoi",
+            "request": "launch",
+            "mainClass": "towerHanoi",
+            "projectName": "Java2024_2392e649"
+        },
+        {
+            "type": "java",
+            "name": "try_catch",
+            "request": "launch",
+            "mainClass": "try_catch",
+            "projectName": "Java2024_2392e649"
+        }
+    ]
+}
